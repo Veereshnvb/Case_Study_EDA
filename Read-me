@@ -1,1 +1,42 @@
--
+# Project Name
+Exploratory Data Analysis on Loan Dataset
+
+## Table of Contents
+*General Info
+*Technologies Used
+*Conclusions
+*Acknowledgements
+
+
+
+## General Information
+- This project conducts Exploratory Data Analysis (EDA) on a dataset related to loan information, analyzing patterns and trends within the data.
+- The background of the project involves understanding key factors that impact loan approval and repayment, with the goal of making informed business decisions regarding loan management.
+- The business problem being addressed is improving loan approval processes and identifying risks associated with loan defaults.
+- The dataset used in this analysis is sourced from a CSV file (loan.csv) containing various records of loans, including key features like loan amount,   applicant details, and loan status.
+
+## Conclusions
+- Conclusion 1: Credit Grade: Applicants in grades B, C, and D are significantly more likely to default.
+- Conclusion 2: Sub-Grade Risk: Higher default rates are observed in sub-grades B3, B4, B5, and C1.
+- Conclusion 3: Employment Length: Applicants with 10+ years of employment are more prone to default.
+- Conclusion 4: Geographic Factors: Higher default rates are concentrated in states CA, FL, and NJ.
+- Conclusion 5: Housing Situation: Renters and mortgaged homeowners are at greater risk of defaulting.
+- Conclusion 6: Income Level: Lower annual income correlates with higher default likelihood.
+- Conclusion 7: Interest Rates: Default risk increases with rising interest rates.
+
+
+
+Technologies Used
+- pandas - version 1.3.3
+- numpy - version 1.21.2
+- matplotlib - version 3.4.3
+- seaborn - version 0.11.2
+- jupyter - version 1.0.0
+
+Acknowledgements
+This project was inspired by various EDA tutorials and practices found in the data science community.
+Special thanks to Upgrad team that provided foundational concepts in EDA.
+
+
+## Contact
+Created by [ ] - feel free to contact me!-
